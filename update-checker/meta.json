@@ -3,6 +3,16 @@
     "hotfixesFormat": null,
     "versions": 
     [
-        
+        {
+            "id": "1.0.0",
+            "releasedAt": 1738368000000,
+            "promotions": 
+            {
+                "downloads": 
+                {
+                    "generic": "https://github.com/Banaando/Chungus-Prospects-2"
+                }
+            }
+        }   
     ]
 }
